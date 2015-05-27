@@ -1,6 +1,6 @@
-history - give you the last 500 command you entered
+`history` - give you the last 500 command you entered
 
-history 11 >> README.md - history follow by the number of command you want followed by >> wich is append over followed by the file you want to insert the text
+`history 11 >> README.md` - history follow by the number of command you want followed by >> wich is append over followed by the file you want to insert the text
 
 alt+ drag  - creates new curses in sublime
 
@@ -12,6 +12,6 @@ command left or right enter - moves curse to begin or end of a line
 * 
 :word: - emoji
 
-`` code block
+`` - to make a code block
 
-```<language> code block with formating
+```<language> to make a code block with formating
